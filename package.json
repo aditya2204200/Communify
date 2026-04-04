@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
-    "start": "node backened/server.js"
+    "start": "nodemon backened/server.js"
   },
   "dependencies": {
     "express": "^5.2.1"
